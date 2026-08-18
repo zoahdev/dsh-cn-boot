@@ -1,0 +1,9 @@
+# dsh-cn-boot
+
+China-network bootstrap for DeepSeek Harness (dsh): connectivity probes to npm/GitHub/HuggingFace/mirrors, local proxy detection, mirror recommendations, and a generated PowerShell/bash bootstrap script.
+
+- Install into dsh: `dsh plugin add dsh-cn-boot`
+- CLI: `npx dsh-cn-boot` (add `--apply` to set npm/pnpm registry to npmmirror)
+- Agent tool: `cn_boot(options)` — returns dsh-cn-boot/v1 results
+- Read-only by default; apply is an explicit opt-in
+- Zero runtime dependencies

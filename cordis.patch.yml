@@ -1,0 +1,4 @@
+- insert:
+    - id: cn-boot
+      name: dsh-cn-boot
+      config: {}
