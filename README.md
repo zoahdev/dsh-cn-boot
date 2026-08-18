@@ -1,5 +1,7 @@
 # dsh-cn-boot
 
+[![npm](https://img.shields.io/npm/v/dsh-cn-boot.svg)](https://www.npmjs.com/package/dsh-cn-boot)
+
 [![CI](https://github.com/zoahdev/dsh-cn-boot/actions/workflows/ci.yml/badge.svg)](https://github.com/zoahdev/dsh-cn-boot/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh-plugin](https://img.shields.io/badge/dsh--plugin-verified-blue)](https://github.com/topics/dsh-plugin)
