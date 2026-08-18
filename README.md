@@ -155,4 +155,11 @@ MIT © 2026 zoahdev
 - **How do I install?** dsh plugin add dsh-cn-boot or run the CLI directly (see README).
 - **Does it need an API key?** No.
 - **Is it read-only?** Yes by default; any write/apply is an explicit flag.
+## Examples
+
+See the README for full CLI usage. Quick start:
+
+```sh
+npx dsh-cn-boot --help
+```
 
